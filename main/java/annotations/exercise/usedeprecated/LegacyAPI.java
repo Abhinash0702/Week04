@@ -1,6 +1,6 @@
 package annotations.exercise.usedeprecated;
 
-class LegacyAPI  {
+class LegacyAPI   {
 
     @Deprecated
     public void oldFeature() {
