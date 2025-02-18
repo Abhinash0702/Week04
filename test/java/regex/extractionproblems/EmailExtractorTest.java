@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 import regex.extractionproblems.EmailExtractor;
 
-import java.util.List;
+import java.util.List ;
 
 class EmailExtractorTest {
 

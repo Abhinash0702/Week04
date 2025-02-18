@@ -11,7 +11,7 @@ public class EmailExtractor {
         Pattern pattern = Pattern.compile(regex);
         Matcher matcher = pattern.matcher(text);
 
-        while (matcher.find()) {
+        while (matcher.find())  {
             emails.add(matcher.group());
         }
         return emails;
